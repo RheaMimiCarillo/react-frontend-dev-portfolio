@@ -1,0 +1,171 @@
+{
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 I'm Rhea Mimi Carillo. Junior software engineer with a strong foundation in computer science, cloud solutions, and distributed systems. U.S. Air Force veteran with experience in project leadership and scalable software development. Eager to contribute my technical expertise and collaborative skills to software development internships focusing on innovative cloud technologies and enterprise solutions.",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience",
+      "contact": "Contact me"
+    }
+  },
+  "projects": [
+    {
+      "title": "RESTy (RESTful API Client)",
+      "startDate": "2022",
+      "description": "Personal project. Created a RESTful API client supporting GET and POST requests, demonstrating effective client-server communication workflows. Launched a responsive UI on Netlify to demonstrate client-server communication workflows, essential for enterprise-level API development. Showcased skills in API testing and distributed system workflows essential for enterprise-scale applications.",
+      "images": [
+        "images/portfolio/resty/resty-icon.png",
+        "images/portfolio/resty/resty-p1.png",
+        "images/portfolio/resty/resty-uml.png"
+      ],
+      "url": "https://rhea-resty.netlify.app/",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Guess The Rainbow",
+      "startDate": "2022",
+      "description": "One of the first apps I was worked in a hack-a-thon setting. Collaborative project as part of a hack-a-thon. Developed an inclusive and accessible puzzle game inspired by Wordle, designed for users with visual or reading impairments. Implemented using HTML5, CSS3, and JavaScript, with state persistence handled via LocalStorage. Focused on creating a scalable, responsive UI and an experience that caters to a broad audience. Optimized the app for performance and accessibility, ensuring a smooth experience across devices.",
+      "images": [
+        "images/portfolio/rainbow/p1.png",
+        "images/portfolio/rainbow/gtr-wireframe.png",
+        "images/portfolio/rainbow/gtr-uml.png",
+        "images/portfolio/rainbow/gtr-trello-board.png"
+      ],
+      "url": "https://guess-the-rainbow.github.io/guess-the-rainbow-game/",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        }
+      ]
+    },
+    {
+      "title": "Productivity Tracker",
+      "startDate": "2022",
+      "description": "Hack-a-thon project. Productivity Tracking Application (MERN Stack). Developed a scalable productivity app using MongoDB, Express, React, and Node.js, with user authentication via Auth0. Designed a RESTful API for real-time goal management and seamless navigation. Optimized the application for multi-user environments using Redux, emphasizing scalability and authentication/security—essential features for enterprise applications. Conducted testing with Jest.",
+      "images": [
+        "images/portfolio/rat-race/rat-race-splash.png",
+        "images/portfolio/rat-race/rat-race-task-and-tags.png",
+        "images/portfolio/rat-race/rat-race-light-theme.png",
+        "images/portfolio/rat-race/rat-race-auth.png",
+        "images/portfolio/rat-race/rat-race-about.png"
+      ],
+      "url": "https://rat-race.onrender.com/",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Node"
+        },
+        {
+          "class": "devicon-oauth-plain",
+          "name": "Oauth"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "University of Washington Tacoma",
+      "title": "Bachelor of Arts in Computer Science and Systems",
+      "years": "09.2024 - Current",
+      "mainTech": ["Java"],
+      "technologies": [
+        "Design patterns",
+        "JUnit",
+        "Code formatting style guide",
+        "Java",
+        "Algorithms",
+        "Professional Development"
+      ]
+    },
+    {
+      "company": "Tacoma Community College",
+      "title": "Associate of Arts in Computer Science",
+      "years": "06.2023 - 06.2024",
+      "mainTech": ["Java"],
+      "technologies": [
+        "Data structures",
+        "Code formatting style guide",
+        "Java",
+        "Algorithms",
+        "Professional Development"
+      ]
+    },
+    {
+      "company": "Code Fellows: Premier Tech Academy",
+      "title": "JavaScript Full-stack Development",
+      "years": "06.2021 - 11.2021",
+      "mainTech": ["MERN"],
+      "technologies": [
+        "MongoDB",
+        "Express.js",
+        "React.js",
+        "RESTful API",
+        "OAuth",
+        "Unit testing",
+        "TDD",
+        "BDD",
+        "Jest unit tests",
+        "SASS",
+        "Data-structures",
+        "Algorithms",
+        "Git",
+        "GitHub",
+        "UNIX",
+        "Professional Development"
+      ]
+    },
+    {
+      "company": "Green River College",
+      "title": "Programming Fundamentals",
+      "years": "09.2019 - 05.2021",
+      "mainTech": ["JavaScript", "HTML", "Java"],
+      "technologies": [
+        "HTML",
+        "JavaScript",
+        "CSS",
+        "Responsive design",
+        "Java",
+        "Python",
+        "MySQL"
+      ]
+    },
+    {
+      "company": "USAF",
+      "title": "Civil Engineer",
+      "years": "10.2012 - 10.2018",
+      "mainTech": ["ArcGIS", "AutoCAD"],
+      "technologies": [
+        "Construction survey",
+        "Computer-aided drafting",
+        "Cartography",
+        "Construction management",
+        "SQL Database management",
+        "Soils testing"
+      ]
+    }
+  ]
+}
