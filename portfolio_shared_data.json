@@ -1,11 +1,7 @@
 {
   "basic_info": {
     "name": "Rhea Mimi Carillo",
-    "titles": [
-      "Software Engineer",
-      "Full-stack Developer",
-      "Video Game Developer"
-    ],
+    "titles": ["Full-stack Developer", "Video Game Developer"],
     "social": [
       {
         "name": "github",
@@ -16,14 +12,9 @@
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/rhea-carillo/",
         "class": "fab fa-linkedin"
-      },
-      {
-        "name": "resume",
-        "url": "https://docs.google.com/document/d/1zSuyHdRZnYMAEelEzuL6yfYCMgUUORKpNtPbtQjZ7b8/edit?usp=sharing",
-        "class": "fas fa-file-alt"
       }
     ],
-    "image": "headshot_square.jpg"
+    "image": "headshot_large.jpg"
   },
   "skills": {
     "icons": [
@@ -43,19 +34,14 @@
         "level": "95"
       },
       {
-        "name": "JavaScript",
-        "class": "devicon-javascript-plain",
-        "level": "70"
-      },
-      {
         "name": "React",
         "class": "devicon-react-plain",
         "level": "80"
       },
       {
-        "name": "NodeJS",
-        "class": "devicon-nodejs-plain",
-        "level": "60"
+        "name": "JavaScript",
+        "class": "devicon-javascript-plain",
+        "level": "70"
       },
       {
         "name": "Sass",
@@ -63,9 +49,19 @@
         "level": "75"
       },
       {
+        "name": "Bootstrap",
+        "class": "devicon-bootstrap-plain",
+        "level": "85"
+      },
+      {
         "name": "Python",
         "class": "devicon-python-plain",
         "level": "90"
+      },
+      {
+        "name": "MySql",
+        "class": "devicon-mysql-plain",
+        "level": "60"
       }
     ]
   }
